@@ -2,7 +2,7 @@
  * [jQuery.imgSlider.js 滚动相册插件]
  * author:935486956@qq.com
  * version:v0.0.1
- * github:
+ * github:https://github.com/git-lt/jquery.imgSlider.js
  * useage: $('#sliderBox').imgSlider(options);
  */
 ;(function ($, window, document, undefined) {

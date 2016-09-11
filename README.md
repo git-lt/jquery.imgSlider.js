@@ -219,3 +219,8 @@ $('#sliderBox2').imgSlider({
         left:-5px;
     }
 ```
+
+## 示例
+
+<iframe height='300' scrolling='no' src='//codepen.io/togglelt/embed/vXNRym/?height=300&theme-id=13299&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/togglelt/pen/vXNRym/'>相册滚动</a> by LT (<a href='http://codepen.io/togglelt'>@togglelt</a>) on <a href='http://codepen.io'>CodePen</a>.
+</iframe>
